@@ -5,6 +5,6 @@ The project includes all relevant documentation, but in summary the project was 
 
 * ReactJS / ReactRouter
 * CookieJS
-* Spring Boot
+* Spring Boot / RESTful API
 * Hibernate
-* ASP.Net Core MVC
+* ASP.Net Core MVC / RESTful API
