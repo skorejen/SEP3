@@ -8,3 +8,4 @@ The project includes all relevant documentation, but in summary the project was 
 * Spring Boot / RESTful API
 * Hibernate
 * ASP.Net Core MVC / RESTful API
+* PostgreSQL
